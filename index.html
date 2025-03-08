@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Subscribe to Calendar</title>
+    <script>
+        function redirectToCalendar() {
+            var userAgent = navigator.userAgent.toLowerCase();
+
+            if (userAgent.includes("iphone") || userAgent.includes("mac")) {
+                // Apple Calendar (iPhone/Mac)
+                window.location.href = "webcal://bioinvasionwiki.github.io/calendar/ias_calendar.ics";
+            } else if (userAgent.includes("android") || userAgent.includes("google")) {
+                // Google Calendar (Android, Chrome)
+                window.location.href = "https://calendar.google.com/calendar/u/0/r?cid=https://bioinvasionwiki.github.io/calendar/ias_calendar.ics";
+            } else {
+                // Default to webcal (Outlook, Windows)
+                window.location.href = "webcal://bioinvasionwiki.github.io/calendar/ias_calendar.ics";
+            }
+        }
+    </script>
+</head>
+<body onload="redirectToCalendar()">
+    <h2>Redirecting to the correct calendar link...</h2>
+    <p>If the page does not redirect automatically, <a href="#" onclick="redirectToCalendar()">click here</a>.</p>
+</body>
+</html>
