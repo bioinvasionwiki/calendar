@@ -56,10 +56,10 @@
 
             if (userAgent.includes("iphone") || userAgent.includes("mac")) {
                 // Apple Calendar (Mac/iOS) - Redirect immediately
-                window.location.href = "webcal://bioinvasionwiki.github.io/calendar/ias_calendar.ics";
+                window.location.href = "webcal://calendar-beta-lake.vercel.app/ias_calendar.ics";
             } else if (userAgent.includes("android")) {
                 // Google Calendar (Android) - Redirect immediately
-                window.location.href = "https://calendar.google.com/calendar/u/0/r?cid=https://bioinvasionwiki.github.io/calendar/ias_calendar.ics";
+                window.location.href = "https://calendar.google.com/calendar/u/0/r?cid=https%3A%2F%2Fcalendar-beta-lake.vercel.app%2Fias_calendar.ics";
             }
         }
     </script>
@@ -68,11 +68,11 @@
     <h2>📅 Subscribe to the Jour Fixe Calendar</h2>
     <p>If you were not automatically redirected, select your calendar manually:</p>
 
-<a href="https://calendar.google.com/calendar/u/0/r?cid=https%3A%2F%2Fbioinvasionwiki.github.io%2Fcalendar%2Fias_calendar.ics" class="btn google">
-    <img src="https://raw.githubusercontent.com/bioinvasionwiki/calendar/main/assets/Google_logo.svg" alt="Google Logo">
-    Add to Google Calendar
-</a>
-    <a href="webcal://bioinvasionwiki.github.io/calendar/ias_calendar.ics" class="btn apple">
+    <a href="https://calendar.google.com/calendar/u/0/r?cid=https%3A%2F%2Fcalendar-beta-lake.vercel.app%2Fias_calendar.ics" class="btn google">
+        <img src="https://raw.githubusercontent.com/bioinvasionwiki/calendar/main/assets/Google_logo.svg" alt="Google Logo">
+        Add to Google Calendar
+    </a>
+    <a href="webcal://calendar-beta-lake.vercel.app/ias_calendar.ics" class="btn apple">
         <img src="https://raw.githubusercontent.com/bioinvasionwiki/calendar/main/assets/Apple_logo_white.svg" alt="Apple Logo">
         Subscribe via WebCal (Apple, Outlook)
     </a>
