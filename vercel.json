@@ -3,10 +3,7 @@
     {
       "source": "/ias_calendar.ics",
       "headers": [
-        {
-          "key": "Content-Type",
-          "value": "text/calendar"
-        }
+        { "key": "Content-Type", "value": "text/calendar" }
       ]
     }
   ]
