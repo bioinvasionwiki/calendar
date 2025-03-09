@@ -23,9 +23,10 @@
             display: flex;
             align-items: center;
             justify-content: flex-start; /* Align logo to the left */
-            width: 310px; /* Slightly reduced width */
+            max-width: 90%; /* Makes it responsive */
+            width: 310px; /* Desktop default */
             margin: 12px auto;
-            padding: 10px 14px; /* Reduced padding for a tighter look */
+            padding: 10px 14px;
             font-size: 18px;
             color: white;
             text-decoration: none;
@@ -34,26 +35,26 @@
             transition: background-color 0.2s ease;
         }
         .btn img {
-            height: 24px; /* Standard size */
-            margin-left: 8px;  /* Reduced left margin */
-            margin-right: 8px; /* Reduced right margin */
+            height: 24px;
+            margin-left: 8px;
+            margin-right: 8px;
         }
         .btn span {
-            flex-grow: 1; /* Ensures text takes up the rest of the space */
-            text-align: center; /* Keeps text visually centered */
-            margin-right: 30px; /* Slightly reduced for better balance */
+            flex-grow: 1;
+            text-align: center;
+            margin-right: 30px;
         }
         .google {
-            background-color: #3367D6; /* Darker blue for better contrast */
+            background-color: #3367D6;
         }
         .google:hover {
-            background-color: #1a4db7; /* Darker shade of blue */
+            background-color: #1a4db7;
         }
         .apple {
-            background-color: #222; /* Slightly lighter black */
+            background-color: #222;
         }
         .apple:hover {
-            background-color: #111; /* Darker shade instead of lighter */
+            background-color: #111;
         }
     </style>
     <script>
@@ -61,10 +62,8 @@
             var userAgent = navigator.userAgent.toLowerCase();
 
             if (userAgent.includes("iphone") || userAgent.includes("mac")) {
-                // Apple Calendar (Mac/iOS) - Redirect immediately
                 window.location.href = "webcal://bioinvasionwiki.github.io/calendar/ias_calendar.ics";
             } else if (userAgent.includes("android")) {
-                // Google Calendar (Android) - Redirect immediately
                 window.location.href = "https://calendar.google.com/calendar/u/0/r?cid=minhv32c4d6mnn3av90hfmn0bd430a0g@import.calendar.google.com";
             }
         }
