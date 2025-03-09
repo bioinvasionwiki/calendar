@@ -22,32 +22,38 @@
         .btn {
             display: flex;
             align-items: center;
-            justify-content: flex-start; /* Left-align the logo */
-            width: 260px;
-            margin: 15px auto;
-            padding: 12px;
+            justify-content: flex-start; /* Align logo to the left */
+            width: 310px; /* Slightly reduced width */
+            margin: 12px auto;
+            padding: 10px 14px; /* Reduced padding for a tighter look */
             font-size: 18px;
             color: white;
             text-decoration: none;
             border-radius: 8px;
             box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-            transition: 0.2s;
+            transition: background-color 0.2s ease;
         }
         .btn img {
-            height: 24px;
-            margin-right: 10px;
+            height: 24px; /* Standard size */
+            margin-left: 8px;  /* Reduced left margin */
+            margin-right: 8px; /* Reduced right margin */
+        }
+        .btn span {
+            flex-grow: 1; /* Ensures text takes up the rest of the space */
+            text-align: center; /* Keeps text visually centered */
+            margin-right: 30px; /* Slightly reduced for better balance */
         }
         .google {
             background-color: #3367D6; /* Darker blue for better contrast */
         }
         .google:hover {
-            background-color: #2a56c6;
+            background-color: #1a4db7; /* Darker shade of blue */
         }
         .apple {
-            background-color: #000;
+            background-color: #222; /* Slightly lighter black */
         }
         .apple:hover {
-            background-color: #333;
+            background-color: #111; /* Darker shade instead of lighter */
         }
     </style>
     <script>
@@ -70,12 +76,12 @@
 
     <a href="https://calendar.google.com/calendar/u/0/r?cid=minhv32c4d6mnn3av90hfmn0bd430a0g@import.calendar.google.com" class="btn google">
         <img src="https://raw.githubusercontent.com/bioinvasionwiki/calendar/main/assets/Google_logo.svg" alt="Google Logo">
-        Add to Google Calendar
+        <span>Add to Google Calendar</span>
     </a>
 
     <a href="webcal://bioinvasionwiki.github.io/calendar/ias_calendar.ics" class="btn apple">
         <img src="https://raw.githubusercontent.com/bioinvasionwiki/calendar/main/assets/Apple_logo_white.svg" alt="Apple Logo">
-        Subscribe via WebCal (Apple, Outlook)
+        <span>Subscribe via WebCal<br>(Apple, Outlook)</span>
     </a>
 </body>
 </html>
