@@ -8,7 +8,7 @@ X-WR-TIMEZONE:Europe/Vienna
 BEGIN:VEVENT
 DTSTART:20250313T150000Z
 DTEND:20250313T163000Z
-DTSTAMP:20250306T155148Z
+DTSTAMP:20250310T110101Z
 UID:5jk7ek1aeije3lrl0dhqc8net5@google.com
 CREATED:20250305T153043Z
 DESCRIPTION:Zoom Link: https://univienna.zoom.us/j/61484609854?pwd=bzUwNERL
@@ -23,7 +23,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250320T150000Z
 DTEND:20250320T163000Z
-DTSTAMP:20250306T155148Z
+DTSTAMP:20250310T110101Z
 UID:3io1496gdb2rq3f9tv70ieqktv@google.com
 CREATED:20250306T154352Z
 DESCRIPTION:Zoom Link: <a href="https://www.google.com/url?q=https://univie
@@ -41,7 +41,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250327T150000Z
 DTEND:20250327T163000Z
-DTSTAMP:20250306T155148Z
+DTSTAMP:20250310T110101Z
 UID:14j6bdc060qqc6dt8odnmiqub8@google.com
 CREATED:20250306T154508Z
 DESCRIPTION:Zoom Link: <a href="https://www.google.com/url?q=https://univie
@@ -59,7 +59,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T140000Z
 DTEND:20250403T153000Z
-DTSTAMP:20250306T155148Z
+DTSTAMP:20250310T110101Z
 UID:75o4td3r3nctd015evv2lmjs9c@google.com
 CREATED:20250306T154530Z
 DESCRIPTION:Zoom Link: <a href="https://www.google.com/url?q=https://univie
@@ -77,7 +77,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T140000Z
 DTEND:20250605T153000Z
-DTSTAMP:20250306T155148Z
+DTSTAMP:20250310T110101Z
 UID:3drekpvdi9v9s4qhiae9poftgf@google.com
 CREATED:20250306T154655Z
 DESCRIPTION:Zoom Link: <a href="https://www.google.com/url?q=https://univie
@@ -95,7 +95,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250612T140000Z
 DTEND:20250612T153000Z
-DTSTAMP:20250306T155148Z
+DTSTAMP:20250310T110101Z
 UID:563al9ptj84ja96aam2pd29nsa@google.com
 CREATED:20250306T154720Z
 DESCRIPTION:Zoom Link: <a href="https://www.google.com/url?q=https://univie
@@ -113,7 +113,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250626T140000Z
 DTEND:20250626T153000Z
-DTSTAMP:20250306T155148Z
+DTSTAMP:20250310T110101Z
 UID:6ncf95hb8b3mvrqa1jdmoc3e56@google.com
 CREATED:20250306T154748Z
 DESCRIPTION:Zoom Link: <a href="https://www.google.com/url?q=https://univie
@@ -131,7 +131,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T140000Z
 DTEND:20250522T153000Z
-DTSTAMP:20250306T155148Z
+DTSTAMP:20250310T110101Z
 UID:7l90u0aiuv1is3i0p088e7ecc9@google.com
 CREATED:20250306T154623Z
 DESCRIPTION:Zoom Link: <a href="https://www.google.com/url?q=https://univie
@@ -149,7 +149,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250508T140000Z
 DTEND:20250508T153000Z
-DTSTAMP:20250306T155148Z
+DTSTAMP:20250310T110101Z
 UID:33cdemkahutb8509vge8u35n31@google.com
 CREATED:20250306T155007Z
 DESCRIPTION:Zoom Link: <a href="https://www.google.com/url?q=https://univie
@@ -163,5 +163,232 @@ SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:joined Jour Fix: Admin JF
 TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250319T130000Z
+DTEND:20250319T140000Z
+DTSTAMP:20250310T110101Z
+UID:4oiu58f9g19efhc4cdo9rcb70c@google.com
+CREATED:20250310T105250Z
+DESCRIPTION:Titles of Journals can be found here: <a href="https://docs.goo
+ gle.com/spreadsheets/d/17upvIS19s3RxszJQR978GDJwUbc30IuLWZgzFnF7Wlc/edit?gi
+ d=866011621#gid=866011621" class="pastedDriveLink-0">https://docs.google.co
+ m/spreadsheets/d/17upvIS19s3RxszJQR978GDJwUbc30IuLWZgzFnF7Wlc/edit?gid=8660
+ 11621#gid=866011621</a>
+LAST-MODIFIED:20250310T105250Z
+LOCATION:Lunch room/kitchen 1st floor
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Journal Club: Jen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250402T120000Z
+DTEND:20250402T130000Z
+DTSTAMP:20250310T110101Z
+UID:7mb131tnoi341guli0joc68las@google.com
+CREATED:20250310T105309Z
+DESCRIPTION:Titles of Journals can be found here: <a href="https://www.goog
+ le.com/url?q=https://docs.google.com/spreadsheets/d/17upvIS19s3RxszJQR978GD
+ JwUbc30IuLWZgzFnF7Wlc/edit?gid%3D866011621%23gid%3D866011621&amp\;sa=D&amp\
+ ;source=calendar&amp\;usd=2&amp\;usg=AOvVaw0or4_48iBwE7Jo6sbvn8-D" target="
+ _blank">https://docs.google.com/spreadsheets/d/17upvIS19s3RxszJQR978GDJwUbc
+ 30IuLWZgzFnF7Wlc/edit?gid=866011621#gid=866011621</a>
+LAST-MODIFIED:20250310T105309Z
+LOCATION:Lunch room/kitchen 1st floor
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Journal Club: Fabio
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250430T120000Z
+DTEND:20250430T130000Z
+DTSTAMP:20250310T110101Z
+UID:4ve4ulqvb1k6p1c4r17v6i7q00@google.com
+CREATED:20250310T105329Z
+DESCRIPTION:Titles of Journals can be found here: <a href="https://www.goog
+ le.com/url?q=https://docs.google.com/spreadsheets/d/17upvIS19s3RxszJQR978GD
+ JwUbc30IuLWZgzFnF7Wlc/edit?gid%3D866011621%23gid%3D866011621&amp\;sa=D&amp\
+ ;source=calendar&amp\;usd=2&amp\;usg=AOvVaw0or4_48iBwE7Jo6sbvn8-D" target="
+ _blank">https://docs.google.com/spreadsheets/d/17upvIS19s3RxszJQR978GDJwUbc
+ 30IuLWZgzFnF7Wlc/edit?gid=866011621#gid=866011621</a>
+LAST-MODIFIED:20250310T105329Z
+LOCATION:Lunch room/kitchen 1st floor
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Journal Club: Ekin
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250514T120000Z
+DTEND:20250514T130000Z
+DTSTAMP:20250310T110101Z
+UID:7ev3vpechka7pg2bkcfumuslpu@google.com
+CREATED:20250310T105348Z
+DESCRIPTION:Titles of Journals can be found here: <a href="https://www.goog
+ le.com/url?q=https://docs.google.com/spreadsheets/d/17upvIS19s3RxszJQR978GD
+ JwUbc30IuLWZgzFnF7Wlc/edit?gid%3D866011621%23gid%3D866011621&amp\;sa=D&amp\
+ ;source=calendar&amp\;usd=2&amp\;usg=AOvVaw0or4_48iBwE7Jo6sbvn8-D" target="
+ _blank">https://docs.google.com/spreadsheets/d/17upvIS19s3RxszJQR978GDJwUbc
+ 30IuLWZgzFnF7Wlc/edit?gid=866011621#gid=866011621</a>
+LAST-MODIFIED:20250310T105414Z
+LOCATION:Lunch room/kitchen 1st floor
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Journal Club: Ruiling
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250528T120000Z
+DTEND:20250528T130000Z
+DTSTAMP:20250310T110101Z
+UID:3r054j7l59qhlcoqu8507st011@google.com
+CREATED:20250310T105441Z
+DESCRIPTION:Titles of Journals can be found here: <a href="https://www.goog
+ le.com/url?q=https://docs.google.com/spreadsheets/d/17upvIS19s3RxszJQR978GD
+ JwUbc30IuLWZgzFnF7Wlc/edit?gid%3D866011621%23gid%3D866011621&amp\;sa=D&amp\
+ ;source=calendar&amp\;usd=2&amp\;usg=AOvVaw0or4_48iBwE7Jo6sbvn8-D" target="
+ _blank">https://docs.google.com/spreadsheets/d/17upvIS19s3RxszJQR978GDJwUbc
+ 30IuLWZgzFnF7Wlc/edit?gid=866011621#gid=866011621</a>
+LAST-MODIFIED:20250310T105442Z
+LOCATION:Lunch room/kitchen 1st floor
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Journal Club: Julia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250611T120000Z
+DTEND:20250611T130000Z
+DTSTAMP:20250310T110101Z
+UID:6vo3955e85qecsrfn605va59km@google.com
+CREATED:20250310T105504Z
+DESCRIPTION:Titles of Journals can be found here: <a href="https://www.goog
+ le.com/url?q=https://docs.google.com/spreadsheets/d/17upvIS19s3RxszJQR978GD
+ JwUbc30IuLWZgzFnF7Wlc/edit?gid%3D866011621%23gid%3D866011621&amp\;sa=D&amp\
+ ;source=calendar&amp\;usd=2&amp\;usg=AOvVaw0or4_48iBwE7Jo6sbvn8-D" target="
+ _blank">https://docs.google.com/spreadsheets/d/17upvIS19s3RxszJQR978GDJwUbc
+ 30IuLWZgzFnF7Wlc/edit?gid=866011621#gid=866011621</a>
+LAST-MODIFIED:20250310T105504Z
+LOCATION:Lunch room/kitchen 1st floor
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Journal Club: Tom
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250625T120000Z
+DTEND:20250625T130000Z
+DTSTAMP:20250310T110101Z
+UID:5p9pjrpac2khu21pjqbgd1jk10@google.com
+CREATED:20250310T105528Z
+DESCRIPTION:Titles of Journals can be found here: <a href="https://www.goog
+ le.com/url?q=https://docs.google.com/spreadsheets/d/17upvIS19s3RxszJQR978GD
+ JwUbc30IuLWZgzFnF7Wlc/edit?gid%3D866011621%23gid%3D866011621&amp\;sa=D&amp\
+ ;source=calendar&amp\;usd=2&amp\;usg=AOvVaw0or4_48iBwE7Jo6sbvn8-D" target="
+ _blank">https://docs.google.com/spreadsheets/d/17upvIS19s3RxszJQR978GDJwUbc
+ 30IuLWZgzFnF7Wlc/edit?gid=866011621#gid=866011621</a>
+LAST-MODIFIED:20250310T105528Z
+LOCATION:Lunch room/kitchen 1st floor
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Journal Club: Ali
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250903T120000Z
+DTEND:20250903T130000Z
+DTSTAMP:20250310T110101Z
+UID:5k86b9bc1r788i814og44nr5ak@google.com
+CREATED:20250310T105556Z
+DESCRIPTION:Titles of Journals can be found here: <a href="https://www.goog
+ le.com/url?q=https://docs.google.com/spreadsheets/d/17upvIS19s3RxszJQR978GD
+ JwUbc30IuLWZgzFnF7Wlc/edit?gid%3D866011621%23gid%3D866011621&amp\;sa=D&amp\
+ ;source=calendar&amp\;usd=2&amp\;usg=AOvVaw0or4_48iBwE7Jo6sbvn8-D" target="
+ _blank">https://docs.google.com/spreadsheets/d/17upvIS19s3RxszJQR978GDJwUbc
+ 30IuLWZgzFnF7Wlc/edit?gid=866011621#gid=866011621</a>
+LAST-MODIFIED:20250310T105556Z
+LOCATION:Lunch room/kitchen 1st floor
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Journal Club: Michi
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250917T120000Z
+DTEND:20250917T130000Z
+DTSTAMP:20250310T110101Z
+UID:0d45vm2sqj29ciaruuf283p59q@google.com
+CREATED:20250310T105615Z
+DESCRIPTION:Titles of Journals can be found here: <a href="https://www.goog
+ le.com/url?q=https://docs.google.com/spreadsheets/d/17upvIS19s3RxszJQR978GD
+ JwUbc30IuLWZgzFnF7Wlc/edit?gid%3D866011621%23gid%3D866011621&amp\;sa=D&amp\
+ ;source=calendar&amp\;usd=2&amp\;usg=AOvVaw0or4_48iBwE7Jo6sbvn8-D" target="
+ _blank">https://docs.google.com/spreadsheets/d/17upvIS19s3RxszJQR978GDJwUbc
+ 30IuLWZgzFnF7Wlc/edit?gid=866011621#gid=866011621</a>
+LAST-MODIFIED:20250310T105615Z
+LOCATION:Lunch room/kitchen 1st floor
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Journal Club: Adrian
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251001T120000Z
+DTEND:20251001T130000Z
+DTSTAMP:20250310T110101Z
+UID:238mkmvdqf1jbpspp90r9hkbaj@google.com
+CREATED:20250310T105640Z
+DESCRIPTION:Titles of Journals can be found here: <a href="https://www.goog
+ le.com/url?q=https://docs.google.com/spreadsheets/d/17upvIS19s3RxszJQR978GD
+ JwUbc30IuLWZgzFnF7Wlc/edit?gid%3D866011621%23gid%3D866011621&amp\;sa=D&amp\
+ ;source=calendar&amp\;usd=2&amp\;usg=AOvVaw0or4_48iBwE7Jo6sbvn8-D" target="
+ _blank">https://docs.google.com/spreadsheets/d/17upvIS19s3RxszJQR978GDJwUbc
+ 30IuLWZgzFnF7Wlc/edit?gid=866011621#gid=866011621</a>
+LAST-MODIFIED:20250310T105640Z
+LOCATION:Lunch room/kitchen 1st floor
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Journal Club: Gilles
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251015T120000Z
+DTEND:20251015T130000Z
+DTSTAMP:20250310T110101Z
+UID:5g4a4927imk7a6k7j1s5ffms2d@google.com
+CREATED:20250310T105705Z
+DESCRIPTION:Titles of Journals can be found here: <a href="https://www.goog
+ le.com/url?q=https://docs.google.com/spreadsheets/d/17upvIS19s3RxszJQR978GD
+ JwUbc30IuLWZgzFnF7Wlc/edit?gid%3D866011621%23gid%3D866011621&amp\;sa=D&amp\
+ ;source=calendar&amp\;usd=2&amp\;usg=AOvVaw0or4_48iBwE7Jo6sbvn8-D" target="
+ _blank">https://docs.google.com/spreadsheets/d/17upvIS19s3RxszJQR978GDJwUbc
+ 30IuLWZgzFnF7Wlc/edit?gid=866011621#gid=866011621</a>
+LAST-MODIFIED:20250310T105705Z
+LOCATION:Lunch room/kitchen 1st floor
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Journal Club: Julia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251029T130000Z
+DTEND:20251029T140000Z
+DTSTAMP:20250310T110101Z
+UID:7qagmic7rfess2tufgqflrfpdp@google.com
+CREATED:20250310T105723Z
+DESCRIPTION:Titles of Journals can be found here: <a href="https://www.goog
+ le.com/url?q=https://docs.google.com/spreadsheets/d/17upvIS19s3RxszJQR978GD
+ JwUbc30IuLWZgzFnF7Wlc/edit?gid%3D866011621%23gid%3D866011621&amp\;sa=D&amp\
+ ;source=calendar&amp\;usd=2&amp\;usg=AOvVaw0or4_48iBwE7Jo6sbvn8-D" target="
+ _blank">https://docs.google.com/spreadsheets/d/17upvIS19s3RxszJQR978GDJwUbc
+ 30IuLWZgzFnF7Wlc/edit?gid=866011621#gid=866011621</a>
+LAST-MODIFIED:20250310T105723Z
+LOCATION:Lunch room/kitchen 1st floor
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Journal Club: Emma
+TRANSP:OPAQUE
 END:VEVENT
 END:VCALENDAR
