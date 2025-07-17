@@ -6,16 +6,123 @@ METHOD:PUBLISH
 X-WR-CALNAME:bioinvasionwiki@gmail.com
 X-WR-TIMEZONE:Europe/Vienna
 BEGIN:VEVENT
+DTSTART:20250730T100000Z
+DTEND:20250730T120000Z
+DTSTAMP:20250717T091409Z
+UID:1t30mgg2aj2b2nvb2n76fmsr7b@google.com
+CREATED:20250717T090656Z
+LAST-MODIFIED:20250717T090656Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Anna's Defence
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250724T103000Z
 DTEND:20250724T113000Z
-DTSTAMP:20250717T085925Z
+DTSTAMP:20250717T091409Z
 UID:4pgskn2i2ssq8os3vbfo900d6v@google.com
 CREATED:20250717T085912Z
-LAST-MODIFIED:20250717T085912Z
+LAST-MODIFIED:20250717T091036Z
 LOCATION:Seminar room
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Julia's Defence
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250903T120000Z
+DTEND:20250903T130000Z
+DTSTAMP:20250717T091409Z
+UID:21kln2vt8q3ncctarrccant3s3@google.com
+CREATED:20250717T091236Z
+DESCRIPTION:Titles of Journals can be found here: <a href="https://www.goog
+ le.com/url?q=https://docs.google.com/spreadsheets/d/17upvIS19s3RxszJQR978GD
+ JwUbc30IuLWZgzFnF7Wlc/edit?gid%3D866011621%23gid%3D866011621&amp\;sa=D&amp\
+ ;source=calendar&amp\;usd=2&amp\;usg=AOvVaw3IF4VTvI0NtpvpXaw26XrZ" target="
+ _blank">https://docs.google.com/spreadsheets/d/17upvIS19s3RxszJQR978GDJwUbc
+ 30IuLWZgzFnF7Wlc/edit?gid=866011621#gid=866011621</a>
+LAST-MODIFIED:20250717T091236Z
+LOCATION:Lunch room/kitchen 1st floor
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Journal Club: Michi
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250917T120000Z
+DTEND:20250917T130000Z
+DTSTAMP:20250717T091409Z
+UID:7vqesv9dbfallqctmoqjrv8ocl@google.com
+CREATED:20250717T091248Z
+DESCRIPTION:Titles of Journals can be found here: <a href="https://www.goog
+ le.com/url?q=https://docs.google.com/spreadsheets/d/17upvIS19s3RxszJQR978GD
+ JwUbc30IuLWZgzFnF7Wlc/edit?gid%3D866011621%23gid%3D866011621&amp\;sa=D&amp\
+ ;source=calendar&amp\;usd=2&amp\;usg=AOvVaw3IF4VTvI0NtpvpXaw26XrZ" target="
+ _blank">https://docs.google.com/spreadsheets/d/17upvIS19s3RxszJQR978GDJwUbc
+ 30IuLWZgzFnF7Wlc/edit?gid=866011621#gid=866011621</a>
+LAST-MODIFIED:20250717T091248Z
+LOCATION:Lunch room/kitchen 1st floor
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Journal Club: Adrian
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251001T120000Z
+DTEND:20251001T130000Z
+DTSTAMP:20250717T091409Z
+UID:6mbr3gcd07d67qp1dscc34rfc2@google.com
+CREATED:20250717T091254Z
+DESCRIPTION:Titles of Journals can be found here: <a href="https://www.goog
+ le.com/url?q=https://docs.google.com/spreadsheets/d/17upvIS19s3RxszJQR978GD
+ JwUbc30IuLWZgzFnF7Wlc/edit?gid%3D866011621%23gid%3D866011621&amp\;sa=D&amp\
+ ;source=calendar&amp\;usd=2&amp\;usg=AOvVaw3IF4VTvI0NtpvpXaw26XrZ" target="
+ _blank">https://docs.google.com/spreadsheets/d/17upvIS19s3RxszJQR978GDJwUbc
+ 30IuLWZgzFnF7Wlc/edit?gid=866011621#gid=866011621</a>
+LAST-MODIFIED:20250717T091254Z
+LOCATION:Lunch room/kitchen 1st floor
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Journal Club: Gilles
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251015T120000Z
+DTEND:20251015T130000Z
+DTSTAMP:20250717T091409Z
+UID:4p5b15jrgcsbo190t82m9qb8cs@google.com
+CREATED:20250717T091259Z
+DESCRIPTION:Titles of Journals can be found here: <a href="https://www.goog
+ le.com/url?q=https://docs.google.com/spreadsheets/d/17upvIS19s3RxszJQR978GD
+ JwUbc30IuLWZgzFnF7Wlc/edit?gid%3D866011621%23gid%3D866011621&amp\;sa=D&amp\
+ ;source=calendar&amp\;usd=2&amp\;usg=AOvVaw3IF4VTvI0NtpvpXaw26XrZ" target="
+ _blank">https://docs.google.com/spreadsheets/d/17upvIS19s3RxszJQR978GDJwUbc
+ 30IuLWZgzFnF7Wlc/edit?gid=866011621#gid=866011621</a>
+LAST-MODIFIED:20250717T091259Z
+LOCATION:Lunch room/kitchen 1st floor
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Journal Club: Julia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251029T130000Z
+DTEND:20251029T140000Z
+DTSTAMP:20250717T091409Z
+UID:2n1t61scj8dvltvo9s2jdjl9eg@google.com
+CREATED:20250717T091304Z
+DESCRIPTION:Titles of Journals can be found here: <a href="https://www.goog
+ le.com/url?q=https://docs.google.com/spreadsheets/d/17upvIS19s3RxszJQR978GD
+ JwUbc30IuLWZgzFnF7Wlc/edit?gid%3D866011621%23gid%3D866011621&amp\;sa=D&amp\
+ ;source=calendar&amp\;usd=2&amp\;usg=AOvVaw3IF4VTvI0NtpvpXaw26XrZ" target="
+ _blank">https://docs.google.com/spreadsheets/d/17upvIS19s3RxszJQR978GDJwUbc
+ 30IuLWZgzFnF7Wlc/edit?gid=866011621#gid=866011621</a>
+LAST-MODIFIED:20250717T091304Z
+LOCATION:Lunch room/kitchen 1st floor
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Journal Club: Emma
 TRANSP:OPAQUE
 END:VEVENT
 END:VCALENDAR
