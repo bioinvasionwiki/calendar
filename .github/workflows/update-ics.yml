@@ -1,0 +1,50 @@
+name: Calendar auto-update
+
+on:
+  push:
+    branches: [ main ]
+  schedule:
+    - cron: "5 2 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update-ics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Download ICS to temp
+        env:
+          ICS_URL: ${{ secrets.ICS_URL }}
+        run: |
+          set -euo pipefail
+          curl -fsSL "$ICS_URL" -o new.ics
+
+      - name: Replace if changed (and archive)
+        run: |
+          set -euo pipefail
+          mkdir -p archive
+          if [ ! -f ias_calendar.ics ] || ! cmp -s new.ics ias_calendar.ics; then
+            mv new.ics ias_calendar.ics
+            DATE=$(date -u +%F)
+            cp ias_calendar.ics "archive/ias_calendar_${DATE}.ics"
+          else
+            echo "No changes"; rm -f new.ics
+          fi
+
+      - name: Commit if changed
+        run: |
+          set -e
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain)" ]; then
+            git add ias_calendar.ics archive/ || true
+            git commit -m "Auto-update ias_calendar.ics ($(date -u +'%F %T'))"
+            git push
+          else
+            echo "Nothing to commit."
+          fi
