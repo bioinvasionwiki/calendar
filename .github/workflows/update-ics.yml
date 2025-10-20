@@ -4,7 +4,7 @@ on:
   push:
     branches: [ main ]
   schedule:
-    - cron: "5 2 * * *"   # daily 02:05 UTC
+    - cron: "5 2 * * *"
   workflow_dispatch: {}
 
 permissions:
@@ -24,51 +24,24 @@ jobs:
         run: |
           set -euo pipefail
           if [ -z "${ICS_URL_RAW:-}" ]; then
-            echo "ICS_URL secret is EMPTY. Did you add it under Settings → Secrets (not Variables)?"
+            echo "ICS_URL secret is EMPTY. Add it under Settings → Secrets → Actions."
             exit 1
           fi
-          # strip CR/LF and trim spaces
           CLEAN_URL="$(printf %s "$ICS_URL_RAW" | tr -d '\r' | tr -d '\n' | sed 's/^[[:space:]]*//; s/[[:space:]]*$//')"
-          if [ -z "$CLEAN_URL" ]; then
-            echo "ICS_URL becomes empty after trimming. Re-save the secret without extra spaces/newlines."
-            exit 1
-          fi
-          # Basic sanity check
-          case "$CLEAN_URL" in
-            http://*|https://*)
-              ;;
-            *)
-              echo "ICS_URL must start with http(s)://"
-              exit 1
-              ;;
-          esac
-          case "$CLEAN_URL" in
-            *.ics|*.ics\?* )
-              ;;
-            *)
-              echo "ICS_URL should end with .ics (Google Calendar iCal feed)."
-              # Not fatal, but warn
-              ;;
-          esac
-          # Pass sanitized value to later steps as output (masked)
-          echo "clean_url::$CLEAN_URL" >> $GITHUB_OUTPUT
+          case "$CLEAN_URL" in http://*|https://*) ;; * ) echo "ICS_URL must start with http(s)://"; exit 1;; esac
+          # Optional warn if it doesn't end in .ics (not fatal)
+          case "$CLEAN_URL" in *.ics|*.ics\?*) ;; * ) echo "Warning: URL does not end with .ics";; esac
+          # ✅ Correct output syntax:
+          echo "clean_url=$CLEAN_URL" >> "$GITHUB_OUTPUT"
 
       - name: Download ICS to temp
         env:
           CLEAN_URL: ${{ steps.preflight.outputs.clean_url }}
         run: |
           set -euo pipefail
-          # -L follow redirects, --fail-with-body for better HTTP errors
           curl --silent --show-error --location --fail-with-body "$CLEAN_URL" -o new.ics
-          # Quick validate it's non-empty and looks like ICS
-          if [ ! -s new.ics ]; then
-            echo "Downloaded file is empty."
-            exit 1
-          fi
-          head -n 1 new.ics | grep -qi '^BEGIN:VCALENDAR' || {
-            echo "File does not look like an .ics (no BEGIN:VCALENDAR header)."
-            exit 1
-          }
+          if [ ! -s new.ics ]; then echo "Downloaded file is empty."; exit 1; fi
+          head -n 1 new.ics | grep -qi '^BEGIN:VCALENDAR' || { echo "Not an .ics (no BEGIN:VCALENDAR)."; exit 1; }
 
       - name: Replace if changed (and archive)
         run: |
