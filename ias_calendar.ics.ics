@@ -1,0 +1,641 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:bioinvasionwiki@gmail.com
+X-WR-TIMEZONE:Europe/Vienna
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+X-LIC-LOCATION:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:GMT+2
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:GMT+1
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART:20250903T120000Z
+DTEND:20250903T130000Z
+DTSTAMP:20251020T090643Z
+UID:21kln2vt8q3ncctarrccant3s3@google.com
+CREATED:20250717T091236Z
+DESCRIPTION:Titles of Journals can be found here: <a href="https://www.goog
+ le.com/url?q=https://docs.google.com/spreadsheets/d/17upvIS19s3RxszJQR978GD
+ JwUbc30IuLWZgzFnF7Wlc/edit?gid%3D866011621%23gid%3D866011621&amp\;sa=D&amp\
+ ;source=calendar&amp\;usd=2&amp\;usg=AOvVaw3IF4VTvI0NtpvpXaw26XrZ" target="
+ _blank">https://docs.google.com/spreadsheets/d/17upvIS19s3RxszJQR978GDJwUbc
+ 30IuLWZgzFnF7Wlc/edit?gid=866011621#gid=866011621</a>
+LAST-MODIFIED:20250717T091236Z
+LOCATION:Lunch room/kitchen 1st floor
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Journal Club: Michi
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250917T120000Z
+DTEND:20250917T130000Z
+DTSTAMP:20251020T090643Z
+UID:7vqesv9dbfallqctmoqjrv8ocl@google.com
+CREATED:20250717T091248Z
+DESCRIPTION:Titles of Journals can be found here: <a href="https://www.goog
+ le.com/url?q=https://docs.google.com/spreadsheets/d/17upvIS19s3RxszJQR978GD
+ JwUbc30IuLWZgzFnF7Wlc/edit?gid%3D866011621%23gid%3D866011621&amp\;sa=D&amp\
+ ;source=calendar&amp\;usd=2&amp\;usg=AOvVaw3IF4VTvI0NtpvpXaw26XrZ" target="
+ _blank">https://docs.google.com/spreadsheets/d/17upvIS19s3RxszJQR978GDJwUbc
+ 30IuLWZgzFnF7Wlc/edit?gid=866011621#gid=866011621</a>
+LAST-MODIFIED:20250717T091248Z
+LOCATION:Lunch room/kitchen 1st floor
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Journal Club: Adrian
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251001T120000Z
+DTEND:20251001T130000Z
+DTSTAMP:20251020T090643Z
+UID:6mbr3gcd07d67qp1dscc34rfc2@google.com
+CREATED:20250717T091254Z
+DESCRIPTION:Titles of Journals can be found here: <a href="https://www.goog
+ le.com/url?q=https://docs.google.com/spreadsheets/d/17upvIS19s3RxszJQR978GD
+ JwUbc30IuLWZgzFnF7Wlc/edit?gid%3D866011621%23gid%3D866011621&amp\;sa=D&amp\
+ ;source=calendar&amp\;usd=2&amp\;usg=AOvVaw3IF4VTvI0NtpvpXaw26XrZ" target="
+ _blank">https://docs.google.com/spreadsheets/d/17upvIS19s3RxszJQR978GDJwUbc
+ 30IuLWZgzFnF7Wlc/edit?gid=866011621#gid=866011621</a>
+LAST-MODIFIED:20250717T091254Z
+LOCATION:Lunch room/kitchen 1st floor
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Journal Club: Gilles
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251015T120000Z
+DTEND:20251015T130000Z
+DTSTAMP:20251020T090643Z
+UID:4p5b15jrgcsbo190t82m9qb8cs@google.com
+CREATED:20250717T091259Z
+DESCRIPTION:Titles of Journals can be found here: <a href="https://www.goog
+ le.com/url?q=https://docs.google.com/spreadsheets/d/17upvIS19s3RxszJQR978GD
+ JwUbc30IuLWZgzFnF7Wlc/edit?gid%3D866011621%23gid%3D866011621&amp\;sa=D&amp\
+ ;source=calendar&amp\;usd=2&amp\;usg=AOvVaw3IF4VTvI0NtpvpXaw26XrZ" target="
+ _blank">https://docs.google.com/spreadsheets/d/17upvIS19s3RxszJQR978GDJwUbc
+ 30IuLWZgzFnF7Wlc/edit?gid=866011621#gid=866011621</a>
+LAST-MODIFIED:20250717T091259Z
+LOCATION:Lunch room/kitchen 1st floor
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Journal Club: Julia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251029T130000Z
+DTEND:20251029T140000Z
+DTSTAMP:20251020T090643Z
+UID:2n1t61scj8dvltvo9s2jdjl9eg@google.com
+CREATED:20250717T091304Z
+DESCRIPTION:Titles of Journals can be found here: <a href="https://www.goog
+ le.com/url?q=https://docs.google.com/spreadsheets/d/17upvIS19s3RxszJQR978GD
+ JwUbc30IuLWZgzFnF7Wlc/edit?gid%3D866011621%23gid%3D866011621&amp\;sa=D&amp\
+ ;source=calendar&amp\;usd=2&amp\;usg=AOvVaw3IF4VTvI0NtpvpXaw26XrZ" target="
+ _blank">https://docs.google.com/spreadsheets/d/17upvIS19s3RxszJQR978GDJwUbc
+ 30IuLWZgzFnF7Wlc/edit?gid=866011621#gid=866011621</a>
+LAST-MODIFIED:20250717T091304Z
+LOCATION:Lunch room/kitchen 1st floor
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Journal Club: Emma
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250923
+DTEND;VALUE=DATE:20250925
+DTSTAMP:20251020T090643Z
+UID:6c9092sd2klp3ie2rrc9tvgcpq@google.com
+CREATED:20250717T093553Z
+LAST-MODIFIED:20250717T093553Z
+LOCATION:KIRCHENWIRT Hotel Restaurant Wachau\, Kremser Str. 17\, 3610 Weiße
+ nkirchen in der Wachau\, Austria
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:BioInv Retreat
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250813T110000Z
+DTEND:20250818T040000Z
+DTSTAMP:20251020T090643Z
+UID:73fgv3l3qvf8sqfam6vibish4t@google.com
+CREATED:20250717T093628Z
+LAST-MODIFIED:20250717T093628Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Herbarium Fumigation
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250730T100000Z
+DTEND:20250730T120000Z
+DTSTAMP:20251020T090643Z
+UID:1t30mgg2aj2b2nvb2n76fmsr7b@google.com
+CREATED:20250717T090656Z
+LAST-MODIFIED:20250717T094935Z
+LOCATION:Lecture room
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Defence: Anna
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250724T103000Z
+DTEND:20250724T113000Z
+DTSTAMP:20251020T090643Z
+UID:4pgskn2i2ssq8os3vbfo900d6v@google.com
+CREATED:20250717T085912Z
+DESCRIPTION:<a href="https://univienna.zoom.us/j/61886751040?pwd=Ypa9hHt1pa
+ FhlZnuFmG4JTOTgz12ZN.1">https://univienna.zoom.us/j/61886751040?pwd=Ypa9hHt
+ 1paFhlZnuFmG4JTOTgz12ZN.1</a><br>Meeting-ID: 618 8675 1040<br>Password: 405
+ 239
+LAST-MODIFIED:20250718T110235Z
+LOCATION:Seminar room
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Defence: Julia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251010
+DTEND;VALUE=DATE:20251012
+DTSTAMP:20251020T090643Z
+UID:3o3ld7qssu7gcqu2ri11fmpfpi@google.com
+CREATED:20250929T120123Z
+DESCRIPTION:See program (attached)
+LAST-MODIFIED:20250929T120123Z
+LOCATION:Rust\, 7071 Rust\, Austria
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Betriebsausflug/Company outing
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=Betriebsausflug_program_2025.pdf;FMTTYPE=application/pdf:ht
+ tps://drive.google.com/open?id=1CEwQlgOZcjr0SZ33ALZ_f1bMUZfPg_iA
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Vienna:20251009T160000
+DTEND;TZID=Europe/Vienna:20251009T173000
+RRULE:FREQ=WEEKLY;UNTIL=20260204T225959Z;BYDAY=TH
+EXDATE;TZID=Europe/Vienna:20251030T160000
+EXDATE;TZID=Europe/Vienna:20251218T160000
+EXDATE;TZID=Europe/Vienna:20251225T160000
+EXDATE;TZID=Europe/Vienna:20260101T160000
+DTSTAMP:20251020T090643Z
+UID:7k7md5dpfmc3vradmk6dr695vc@google.com
+CREATED:20250929T130357Z
+DESCRIPTION:<p>Thur 09/10: <b>Farewell Sonja&amp\; Barbecue</b></p><p>Perma
+ nentZoom_link:<a href="https://univienna.zoom.us/s/61484609854"> </a><u><a 
+ href="https://univienna.zoom.us/j/61484609854?pwd=bzUwNERLdEJkNGg2Nzd3RkVqN
+ URxdz09">https://univienna.zoom.us/j/61484609854?pwd=bzUwNERLdEJkNGg2Nzd3Rk
+ VqNURxdz09</a></u></p>
+LAST-MODIFIED:20250929T130958Z
+LOCATION:Hybrid\, Seminarroom\, Rennweg 14\, 1030 Vienna
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Joint Jour Fix
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H30M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Vienna:20251009T160000
+DTEND;TZID=Europe/Vienna:20251009T173000
+DTSTAMP:20251020T090643Z
+UID:7k7md5dpfmc3vradmk6dr695vc@google.com
+RECURRENCE-ID;TZID=Europe/Vienna:20251009T160000
+CREATED:20250929T130357Z
+DESCRIPTION:<p>Thur 09/10: <b>Farewell Sonja&amp\; Barbecue</b></p><p>Perma
+ nentZoom_link:<a href="https://univienna.zoom.us/s/61484609854"> </a><u><a 
+ href="https://univienna.zoom.us/j/61484609854?pwd=bzUwNERLdEJkNGg2Nzd3RkVqN
+ URxdz09">https://univienna.zoom.us/j/61484609854?pwd=bzUwNERLdEJkNGg2Nzd3Rk
+ VqNURxdz09</a></u></p>
+LAST-MODIFIED:20250929T130958Z
+LOCATION:Hybrid\, Seminarroom\, Rennweg 14\, 1030 Vienna
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Joint Jour Fix
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H30M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Vienna:20251016T160000
+DTEND;TZID=Europe/Vienna:20251016T173000
+DTSTAMP:20251020T090643Z
+UID:7k7md5dpfmc3vradmk6dr695vc@google.com
+RECURRENCE-ID;TZID=Europe/Vienna:20251016T160000
+CREATED:20250929T130357Z
+DESCRIPTION:<p>Thur 16/10: <b>Admin JF</b></p><p>PermanentZoom_link:<a href
+ ="https://univienna.zoom.us/s/61484609854" target="_blank"> </a><u><a href=
+ "https://univienna.zoom.us/j/61484609854?pwd=bzUwNERLdEJkNGg2Nzd3RkVqNURxdz
+ 09" target="_blank">https://univienna.zoom.us/j/61484609854?pwd=bzUwNERLdEJ
+ kNGg2Nzd3RkVqNURxdz09</a></u></p>
+LAST-MODIFIED:20250929T130958Z
+LOCATION:Hybrid\, Seminarroom\, Rennweg 14\, 1030 Vienna
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Joint Jour Fix
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H30M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Vienna:20251023T160000
+DTEND;TZID=Europe/Vienna:20251023T173000
+DTSTAMP:20251020T090643Z
+UID:7k7md5dpfmc3vradmk6dr695vc@google.com
+RECURRENCE-ID;TZID=Europe/Vienna:20251023T160000
+CREATED:20250929T130357Z
+DESCRIPTION:<p>Thur 23/10: <b>Norbert Helm\, University of Vienna\,“Current
+  conditions impose a large climatic debt on mountain plants”</b></p><p>Perm
+ anentZoom_link:<a href="https://univienna.zoom.us/s/61484609854" target="_b
+ lank"> </a><u><a href="https://univienna.zoom.us/j/61484609854?pwd=bzUwNERL
+ dEJkNGg2Nzd3RkVqNURxdz09" target="_blank">https://univienna.zoom.us/j/61484
+ 609854?pwd=bzUwNERLdEJkNGg2Nzd3RkVqNURxdz09</a></u></p>
+LAST-MODIFIED:20250929T130958Z
+LOCATION:Hybrid\, Seminarroom\, Rennweg 14\, 1030 Vienna
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Joint Jour Fix
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H30M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Vienna:20251106T160000
+DTEND;TZID=Europe/Vienna:20251106T173000
+DTSTAMP:20251020T090643Z
+UID:7k7md5dpfmc3vradmk6dr695vc@google.com
+RECURRENCE-ID;TZID=Europe/Vienna:20251106T160000
+CREATED:20250929T130357Z
+DESCRIPTION:<p>Thur 6/11: <b>Lisa Tedeschi\, University of Vienna\,“Evaluat
+ ing the impact of IAS on European native threatened species”</b></p><p>Perm
+ anentZoom_link:<a href="https://univienna.zoom.us/s/61484609854" target="_b
+ lank"> </a><u><a href="https://univienna.zoom.us/j/61484609854?pwd=bzUwNERL
+ dEJkNGg2Nzd3RkVqNURxdz09" target="_blank">https://univienna.zoom.us/j/61484
+ 609854?pwd=bzUwNERLdEJkNGg2Nzd3RkVqNURxdz09</a></u></p>
+LAST-MODIFIED:20250929T130958Z
+LOCATION:Hybrid\, Seminarroom\, Rennweg 14\, 1030 Vienna
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Joint Jour Fix
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H30M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Vienna:20251113T160000
+DTEND;TZID=Europe/Vienna:20251113T173000
+DTSTAMP:20251020T090643Z
+UID:7k7md5dpfmc3vradmk6dr695vc@google.com
+RECURRENCE-ID;TZID=Europe/Vienna:20251113T160000
+CREATED:20250929T130357Z
+DESCRIPTION:<p>Thur 13/11: <b>Stefan Schindler\, Umweltbundesamt\,Policy-dr
+ iven monitoring and assessment of biodiversity in Austria and Europe&amp\; 
+ &amp\; BeerFix</b></p><p>PermanentZoom_link:<a href="https://univienna.zoom
+ .us/s/61484609854" target="_blank"> </a><u><a href="https://univienna.zoom.
+ us/j/61484609854?pwd=bzUwNERLdEJkNGg2Nzd3RkVqNURxdz09" target="_blank">http
+ s://univienna.zoom.us/j/61484609854?pwd=bzUwNERLdEJkNGg2Nzd3RkVqNURxdz09</a
+ ></u></p>
+LAST-MODIFIED:20250929T130958Z
+LOCATION:Hybrid\, Seminarroom\, Rennweg 14\, 1030 Vienna
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Joint Jour Fix
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H30M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Vienna:20251120T160000
+DTEND;TZID=Europe/Vienna:20251120T173000
+DTSTAMP:20251020T090643Z
+UID:7k7md5dpfmc3vradmk6dr695vc@google.com
+RECURRENCE-ID;TZID=Europe/Vienna:20251120T160000
+CREATED:20250929T130357Z
+DESCRIPTION:<p>Thur 20/11: <b>Johannes Hausharter\, “Thermophilisation inEu
+ rope’s alpine plant communities” / “The (in)ability of SDMs to predictabund
+ ance changes in alpine plants on European summits”</b></p><p>PermanentZoom_
+ link:<a href="https://univienna.zoom.us/s/61484609854" target="_blank"> </a
+ ><u><a href="https://univienna.zoom.us/j/61484609854?pwd=bzUwNERLdEJkNGg2Nz
+ d3RkVqNURxdz09" target="_blank">https://univienna.zoom.us/j/61484609854?pwd
+ =bzUwNERLdEJkNGg2Nzd3RkVqNURxdz09</a></u></p>
+LAST-MODIFIED:20250929T130958Z
+LOCATION:Hybrid\, Seminarroom\, Rennweg 14\, 1030 Vienna
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Joint Jour Fix
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H30M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Vienna:20251204T160000
+DTEND;TZID=Europe/Vienna:20251204T173000
+DTSTAMP:20251020T090643Z
+UID:7k7md5dpfmc3vradmk6dr695vc@google.com
+RECURRENCE-ID;TZID=Europe/Vienna:20251204T160000
+CREATED:20250929T130357Z
+DESCRIPTION:<p>Thur 04/12: <b>Francesco Boscutti\, University of Udine\,Pla
+ nt invasions in the landscape &amp\; BeerFix</b></p><p>PermanentZoom_link:<
+ a href="https://univienna.zoom.us/s/61484609854" target="_blank"> </a><u><a
+  href="https://univienna.zoom.us/j/61484609854?pwd=bzUwNERLdEJkNGg2Nzd3RkVq
+ NURxdz09" target="_blank">https://univienna.zoom.us/j/61484609854?pwd=bzUwN
+ ERLdEJkNGg2Nzd3RkVqNURxdz09</a></u></p>
+LAST-MODIFIED:20250929T130958Z
+LOCATION:Hybrid\, Seminarroom\, Rennweg 14\, 1030 Vienna
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Joint Jour Fix
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H30M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Vienna:20251211T160000
+DTEND;TZID=Europe/Vienna:20251211T173000
+DTSTAMP:20251020T090643Z
+UID:7k7md5dpfmc3vradmk6dr695vc@google.com
+RECURRENCE-ID;TZID=Europe/Vienna:20251211T160000
+CREATED:20250929T130357Z
+DESCRIPTION:<p>Thur 11/12: <b>Christine Sheppard\, BOKU University\, Biotic
+  interactionsand plant invasions: the role of functional traits and residen
+ ce time &amp\; BeerFix</b></p><p>PermanentZoom_link:<a href="https://univie
+ nna.zoom.us/s/61484609854" target="_blank"> </a><u><a href="https://univien
+ na.zoom.us/j/61484609854?pwd=bzUwNERLdEJkNGg2Nzd3RkVqNURxdz09" target="_bla
+ nk">https://univienna.zoom.us/j/61484609854?pwd=bzUwNERLdEJkNGg2Nzd3RkVqNUR
+ xdz09</a></u></p>
+LAST-MODIFIED:20250929T130958Z
+LOCATION:Hybrid\, Seminarroom\, Rennweg 14\, 1030 Vienna
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Joint Jour Fix
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H30M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Vienna:20260108T160000
+DTEND;TZID=Europe/Vienna:20260108T173000
+DTSTAMP:20251020T090643Z
+UID:7k7md5dpfmc3vradmk6dr695vc@google.com
+RECURRENCE-ID;TZID=Europe/Vienna:20260108T160000
+CREATED:20250929T130357Z
+DESCRIPTION:<p>Thur 08/01: <b>Johannes Wessely: “High-elevationspecialists 
+ increasingly disappear from European mountain top floras”<br></b><br></p><p
+ >PermanentZoom_link:<a href="https://univienna.zoom.us/s/61484609854" targe
+ t="_blank"> </a><u><a href="https://univienna.zoom.us/j/61484609854?pwd=bzU
+ wNERLdEJkNGg2Nzd3RkVqNURxdz09" target="_blank">https://univienna.zoom.us/j/
+ 61484609854?pwd=bzUwNERLdEJkNGg2Nzd3RkVqNURxdz09</a></u></p>
+LAST-MODIFIED:20250929T130958Z
+LOCATION:Hybrid\, Seminarroom\, Rennweg 14\, 1030 Vienna
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Joint Jour Fix
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H30M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Vienna:20260115T160000
+DTEND;TZID=Europe/Vienna:20260115T173000
+DTSTAMP:20251020T090643Z
+UID:7k7md5dpfmc3vradmk6dr695vc@google.com
+RECURRENCE-ID;TZID=Europe/Vienna:20260115T160000
+CREATED:20250929T130357Z
+DESCRIPTION:<p>Thur 15/01: <b>Gilles Colling\, „Patterns of Habitat Spreadi
+ n Alien Plant Species Across Europe“</b></p><p>PermanentZoom_link:<a href="
+ https://univienna.zoom.us/s/61484609854" target="_blank"> </a><u><a href="h
+ ttps://univienna.zoom.us/j/61484609854?pwd=bzUwNERLdEJkNGg2Nzd3RkVqNURxdz09
+ " target="_blank">https://univienna.zoom.us/j/61484609854?pwd=bzUwNERLdEJkN
+ Gg2Nzd3RkVqNURxdz09</a></u></p>
+LAST-MODIFIED:20250929T130958Z
+LOCATION:Hybrid\, Seminarroom\, Rennweg 14\, 1030 Vienna
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Joint Jour Fix
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H30M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Vienna:20260122T160000
+DTEND;TZID=Europe/Vienna:20260122T173000
+DTSTAMP:20251020T090643Z
+UID:7k7md5dpfmc3vradmk6dr695vc@google.com
+RECURRENCE-ID;TZID=Europe/Vienna:20260122T160000
+CREATED:20250929T130357Z
+DESCRIPTION:<p>Thur 22/01: <b>Andreas Gattringer: “TBD CATS Microclim”</b><
+ /p><p>PermanentZoom_link:<a href="https://univienna.zoom.us/s/61484609854" 
+ target="_blank"> </a><u><a href="https://univienna.zoom.us/j/61484609854?pw
+ d=bzUwNERLdEJkNGg2Nzd3RkVqNURxdz09" target="_blank">https://univienna.zoom.
+ us/j/61484609854?pwd=bzUwNERLdEJkNGg2Nzd3RkVqNURxdz09</a></u></p>
+LAST-MODIFIED:20250929T130958Z
+LOCATION:Hybrid\, Seminarroom\, Rennweg 14\, 1030 Vienna
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Joint Jour Fix
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H30M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Vienna:20260129T160000
+DTEND;TZID=Europe/Vienna:20260129T173000
+DTSTAMP:20251020T090643Z
+UID:7k7md5dpfmc3vradmk6dr695vc@google.com
+RECURRENCE-ID;TZID=Europe/Vienna:20260129T160000
+CREATED:20250929T130357Z
+DESCRIPTION:<p>Thur 29/01:<b> Admin JF<br></b><br></p><p>PermanentZoom_link
+ :<a href="https://univienna.zoom.us/s/61484609854" target="_blank"> </a><u>
+ <a href="https://univienna.zoom.us/j/61484609854?pwd=bzUwNERLdEJkNGg2Nzd3Rk
+ VqNURxdz09" target="_blank">https://univienna.zoom.us/j/61484609854?pwd=bzU
+ wNERLdEJkNGg2Nzd3RkVqNURxdz09</a></u></p>
+LAST-MODIFIED:20250929T130958Z
+LOCATION:Hybrid\, Seminarroom\, Rennweg 14\, 1030 Vienna
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Joint Jour Fix
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H30M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251015T110000Z
+DTEND:20251015T120000Z
+DTSTAMP:20251020T090643Z
+UID:6ncq600jf9dmgiil7h8mi489fd@google.com
+CREATED:20250930T170241Z
+LAST-MODIFIED:20250930T170241Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:BioInv jour fix
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260106
+DTEND;VALUE=DATE:20260111
+DTSTAMP:20251020T090643Z
+UID:6p7itnamllmlg73q8dcpg970b6@google.com
+CREATED:20251006T103336Z
+DESCRIPTION:<a href="https://conferences.au.dk/tibs-aarhus-2026">https://co
+ nferences.au.dk/tibs-aarhus-2026</a>
+LAST-MODIFIED:20251006T110137Z
+LOCATION:Aarhus\, Denmark
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TIBS Aarhus 2026
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Vienna:20251127T160000
+DTEND;TZID=Europe/Vienna:20251127T173000
+DTSTAMP:20251020T090643Z
+UID:7k7md5dpfmc3vradmk6dr695vc@google.com
+RECURRENCE-ID;TZID=Europe/Vienna:20251127T160000
+CREATED:20250929T130357Z
+DESCRIPTION:<p>Thur 27/11: <b>Admin JF &amp\; Theresa Henke\, CSIC\,Almeria
+ : “From fish to plants to humans: looking at the social dimensions ofbiolog
+ ical invasions”</b></p><p>PermanentZoom_link:<a href="https://univienna.zoo
+ m.us/s/61484609854" target="_blank"> </a><u><a href="https://univienna.zoom
+ .us/j/61484609854?pwd=bzUwNERLdEJkNGg2Nzd3RkVqNURxdz09" target="_blank">htt
+ ps://univienna.zoom.us/j/61484609854?pwd=bzUwNERLdEJkNGg2Nzd3RkVqNURxdz09</
+ a></u></p>
+LAST-MODIFIED:20251006T120201Z
+LOCATION:Hybrid\, Seminarroom\, Rennweg 14\, 1030 Vienna
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Joint Jour Fix
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H30M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260614
+DTEND;VALUE=DATE:20260620
+DTSTAMP:20251020T090643Z
+UID:33p91vkbku2qtbq2pdi4aakp4v@google.com
+CREATED:20251015T081038Z
+DESCRIPTION:<a href="https://worldbiodiversityforum.org/">https://worldbiod
+ iversityforum.org/</a>
+LAST-MODIFIED:20251015T081038Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:World Biodiversity Forum
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260912
+DTSTAMP:20251020T090643Z
+UID:3sepedtfdfrdpa4qfrbu2ch9uv@google.com
+CREATED:20251006T110225Z
+DESCRIPTION:<a href="https://www.biodiversity.be/6224/">https://www.biodive
+ rsity.be/6224/</a>
+LAST-MODIFIED:20251015T081334Z
+LOCATION:Brussels\, Belgium
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:NeoBiota 2026
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261107
+DTSTAMP:20251020T090643Z
+UID:5r0nfgji5mie680d2i9kcjlhnu@google.com
+CREATED:20251006T110330Z
+DESCRIPTION:<a href="https://sites.google.com/view/ibc2026/">https://sites.
+ google.com/view/ibc2026/</a>
+LAST-MODIFIED:20251015T081404Z
+LOCATION:Atami\, Shizuoka\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Island Biology 2026
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20261001
+DTSTAMP:20251020T090643Z
+UID:6punjcvde8fk54q6eq6rlp0smk@google.com
+CREATED:20251015T124002Z
+LAST-MODIFIED:20251015T124003Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Bioinvasions Lab Retreat
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251126T080000Z
+DTEND:20251126T093000Z
+DTSTAMP:20251020T090643Z
+UID:0cbv0eo5kn0s461c2mnhoc0vfh@google.com
+CREATED:20251016T080853Z
+LAST-MODIFIED:20251016T080854Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:BioInv jour fix
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
